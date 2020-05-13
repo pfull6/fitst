@@ -1,0 +1,24 @@
+html
+    body {
+           height : 100%
+            font-family: 'open sans', sans-serif;
+            color: #9D78CC; 
+    
+
+    }
+    h1 { 
+        font-size : 60px;
+        color: #624B80;
+    }
+    h2 {
+        font-size : 40px ;
+        color:#C496FF;
+    }   
+    p {
+        font-size : 20px;
+        color:#787180;
+        line-height : 2;
+    }
+    img {
+        max-width: 100%;
+    }
